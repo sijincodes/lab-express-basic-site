@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column-reverse;
+
+  }
+  img {
+    max-width: 100%
+  }
+  .image {
+    flex-basis: 70%;
+    order: 2;
+  }
+   p{
+    color:black;
+    padding-left: 20px;
+    font: italic 20px "Fira Sans", serif;
+  }
+  h2{
+    padding-left:550px;
+    text-decoration: underline;
+  }
+  body{
+    background-color: #BAB8A7;
+  }
