@@ -23,8 +23,7 @@ body {
     right: 0;
     background-image: url(/Images/dwight1.webp);
   }
-  
-  /*the content centered horizontally and vertically */
+ 
   .centered {
     position: absolute;
     top: 50%;
